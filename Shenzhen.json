@@ -1,9 +1,9 @@
 {
-  title: "Shenzhen being developed",
-  subtext: [
+  "title": "Shenzhen being developed",
+  "subtext": [
     "Test1",
     "Test2",
     "Test3"
   ],
-  image: ""
+  "image": ""
 }
